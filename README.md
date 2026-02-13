@@ -31,15 +31,15 @@ The repository includes both published cognitive attack patterns and new pattern
 
 ReCAP is **currently under construction and testing**.
 
-The initial release will feature:
+The initial release features:
 
 - A validated **cognitive attack classification schema**
 - An **interactive user interface** for browsing and contributing attack patterns
 - Reference links to supporting research and documentation
 - Collaboration tools for the research and practitioner community
 
-**Availability:**  The website will be available soon at the following URL:
-🌐 [Web Address]
+**Availability:**  The website is available at the following URL:
+🌐 https://recap.collins.com/recap/
 
 ---
 
