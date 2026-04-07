@@ -39,7 +39,7 @@ The initial release features:
 - Collaboration tools for the research and practitioner community
 
 **Availability:**  The website is available at the following URL:
-🌐 https://recap.collins.com/recap/
+🌐 https://recap.collins.com
 
 ---
 
